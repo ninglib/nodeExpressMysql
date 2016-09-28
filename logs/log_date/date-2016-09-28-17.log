@@ -1,0 +1,10 @@
+[2016-09-28 17:17:15.674] [INFO] log_date - queryByFields链接异常[object Object]
+[2016-09-28 17:17:42.541] [INFO] log_date - queryByFields链接异常[object Object]
+[2016-09-28 17:17:43.019] [INFO] log_date - queryByFields链接异常[object Object]
+[2016-09-28 17:17:43.322] [INFO] log_date - queryByFields链接异常[object Object]
+[2016-09-28 17:17:43.671] [INFO] log_date - queryByFields链接异常[object Object]
+[2016-09-28 17:17:51.136] [INFO] log_date - queryByFields链接异常[object Object]
+[2016-09-28 17:28:48.101] [ERROR] log_date - queryByFields链接异常[object Object]
+[2016-09-28 17:32:33.559] [ERROR] log_date - queryByFields链接异常{"head":{"error":1045,"message":"ER_ACCESS_DENIED_ERROR"},"body":{"errorData":{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true}}}
+[2016-09-28 17:35:27.901] [ERROR] log_date - queryByFields链接异常{"head":{"error":1045,"message":"ER_ACCESS_DENIED_ERROR"},"body":{"errorData":{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true}}}
+[2016-09-28 17:35:45.850] [ERROR] log_date - queryByFields链接异常{"head":{"error":1045,"message":"ER_ACCESS_DENIED_ERROR"},"body":{"errorData":{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true}}}
